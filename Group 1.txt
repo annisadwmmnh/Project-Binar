@@ -1,0 +1,9 @@
+Group 1
+QA Wave 1
+
+1. Naufal Hisyam Faizsyahly Fadhilah (Edit profile)
+2. Annisa Dwi Maimanah (Login)
+3. Gema Cania Manggara (Register)
+4. Intani Damayanti (Add Product)
+5. Fadhila Fahimatul Ilmiyah (Logout)
+6. Andrian Nizsa Rachmadan (Transaction)
